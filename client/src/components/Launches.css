@@ -1,0 +1,8 @@
+.launch_main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.back{
+    background-color: lightgrey;
+}

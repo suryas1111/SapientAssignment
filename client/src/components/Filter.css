@@ -1,0 +1,15 @@
+.background{
+    background-color: whitesmoke;
+}
+.button_width{
+    width: 5em;
+    margin: 2px;
+}
+
+.text_color{
+    color: black;
+}
+
+.text_center{
+    text-align: center;
+}
